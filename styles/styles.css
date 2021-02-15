@@ -23,9 +23,10 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3.5rem;
+  font-weight: bold;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Amatic SC', cursive;
 }
 
 img {
